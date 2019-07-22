@@ -1,4 +1,3 @@
-# Braahma
+# Braahma (Machine Learning Library)
 
-Machine Learning Library
-Status: Broken
+# Status: Broken
